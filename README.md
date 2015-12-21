@@ -1,0 +1,3 @@
+# Interpreter
+A simple piece of code (such as clojure) that makes writing java easier...
+^^^ Seems legit!
